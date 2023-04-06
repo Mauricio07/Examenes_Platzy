@@ -25,7 +25,7 @@ Tipo de dato con el que se representan números enteros. Por ejemplo, 19.
 ![Image](https://static.platzi.com/media/user_upload/carbon-e06f99b3-047f-4513-b58a-8416d00404ce.jpg)
 
 ```
-4.56 REPASAR CLASE
+4
 ```
 
 6. ¿Qué se obtiene al ejecutar la siguiente línea en Python?
@@ -89,9 +89,9 @@ primos = [2, 3, 5, 7, 11, 13, 17, 19]
 17. ¿Qué se obtiene al ejecutar el siguiente slicing en esta lista de Python?
 ![Image](https://static.platzi.com/media/user_upload/carbon%20%284%29-267d7535-c923-4b6c-b6f4-0269f6787ad3.jpg)
 ```
-[7, 11, 13, 19]
-REPASAR CLASE
+[7, 13, 19, 29]
 ```
+
 18. ¿Qué es una lista en Python?
 ```
 Son un tipo de datos donde se pueden almacenar colecciones de datos de cualquier tipo.

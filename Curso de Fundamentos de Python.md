@@ -112,8 +112,7 @@ inventory = {'televisions': 100, 'computers': 45, 'smartphones': 200, 'tablets':
 22. ¿Qué se obtiene al ejecutar el siguiente ciclo while en Python?
 ![Image](https://static.platzi.com/media/user_upload/carbon%20%281%29-aa5d24a3-d243-4f71-bce2-afcab7af6c24.jpg)
 ```
-Imprimirá 15 veces la suma y sus resultados y cerrará el ciclo. Al finalizar imprimirá "La población es de 8.85 millones de habitantes".
-REPASAR CLASE
+Imprimirá inmediatamente "La población es de 8.85 millones de habitantes" porque la variable automáticamente llega a ese valor desde el inicio del ciclo while.
 ```
 
 23. ¿Qué se obtiene al ejecutar el siguiente ciclo for en Python?
